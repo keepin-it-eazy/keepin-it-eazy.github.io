@@ -74,29 +74,46 @@ I am a motivated Information Technology student, specializing in Applications De
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
+  
+### 🔗 Connect with me
 
-<p align="left">
-  <a href="https://github.com/keepin-it-eazy" target="_blank">
-    <img src="https://iconic-api.onrender.com/dark/github" width="48px" alt="GitHub" /><br />
-    <strong>GitHub</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/isaac-ziyengwa" target="_blank">
-    <img src="https://iconic-api.onrender.com/dark/linkedin" width="48px" alt="LinkedIn" /><br />
-    <strong>LinkedIn</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:231269307@mycput.ac.za">
-    <img src="https://iconic-api.onrender.com/dark/microsoft-outlook" width="48px" alt="Outlook" /><br />
-    <strong>Outlook</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="tel:+27604022165">
-    <img src="https://iconic-api.onrender.com/dark/whatsapp" width="48px" alt="WhatsApp" /><br />
-    <strong>WhatsApp</strong>
-  </a>
-</p>
+<br />
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/keepin-it-eazy" target="_blank">
+        <img src="https://iconic-api.onrender.com/dark/github" width="48px" /><br />
+        <strong>GitHub</strong><br />
+        <sub>keepin-it-eazy</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/isaac-ziyengwa" target="_blank">
+        <img src="https://iconic-api.onrender.com/dark/linkedin" width="48px" /><br />
+        <strong>LinkedIn</strong><br />
+        <sub>Isaac Ziyengwa</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:231269307@mycput.ac.za">
+        <img src="https://iconic-api.onrender.com/dark/microsoft-outlook" width="48px" /><br />
+        <strong>Outlook</strong><br />
+        <sub>231269307@mycput.ac.za</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="tel:+27604022165">
+        <img src="https://iconic-api.onrender.com/dark/whatsapp" width="48px" /><br />
+        <strong>WhatsApp</strong><br />
+        <sub>+27 60 402 2165</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 ---
 
 *Open to WIL Junior Developer opportunities | Available for immediate placement*
