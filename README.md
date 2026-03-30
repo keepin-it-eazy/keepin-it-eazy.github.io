@@ -1,4 +1,4 @@
-# ℐ𝓈𝒶𝒶𝒸 𝒯 𝒵𝒾𝓎ℯ𝓃ℊ𝓌𝒶
+# Isaac T Ziyengwa
 
 📍 Cape Town, South Africa  
 📧 231269307@mycput.ac.za  
@@ -76,9 +76,23 @@ I am a motivated Information Technology student, specializing in Applications De
 
 ## 📫 Connect With Me
 
-[![Email]()
-[![Phone](https://img.shields.io/badge/Phone-+27%2060%20402%202165-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+27604022165)
-
+<p align="left">
+  <a href="https://github.com/keepin-it-eazy" target="_blank">
+    <img src="https://iconic-api.onrender.com/dark/github" width="48px" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/isaac" target="_blank">
+    <img src="https://iconic-api.onrender.com/dark/linkedin" width="48px" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:231269307@mycput.ac.za">
+    <img src="https://iconic-api.onrender.com/dark/gmail" width="48px" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="tel:+27604022165">
+    <img src="https://iconic-api.onrender.com/dark/whatsapp" width="48px" alt="WhatsApp" />
+  </a>
+</p>
 ---
 
 *Open to WIL Junior Developer opportunities | Available for immediate placement*
