@@ -86,7 +86,7 @@ I am a motivated Information Technology student, specializing in Applications De
     <img src="https://img.shields.io/badge/▶️_Click_to_Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
          style="margin-top: -40px; position: relative; top: -60px;" />
   </a> 
-  <sub>🎬 *Mock interview demonstrating my technical knowledge, communication skills, and professional presentation*</sub>
+ <br/> <sub>🎬 *Mock interview demonstrating my technical knowledge, communication skills, and professional presentation*</sub>
 </div>
 ---
 
