@@ -30,8 +30,12 @@ I am a motivated Information Technology student, specializing in Applications De
 | **Web Development** | HTML, CSS, JavaScript |
 
 ---
-<a href="https://github.com/isaactz"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keepi-it-eazy&show_icons=true&theme=radical&hide_border=true" /> <img height="180em" src="https://github-readme-st
+## 🚀 What I'm currently learning
 
+☕ Spring Boot – Building REST APIs with Java
+🎨 React.js – Modern frontend frameworks
+🔧 Design Patterns – Writing cleaner, scalable code
+🐳 Docker – Containerization basics
 ---
 
 ## 💼 Work Experience
