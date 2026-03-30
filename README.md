@@ -81,12 +81,12 @@ I am a motivated Information Technology student, specializing in Applications De
     <img src="https://iconic-api.onrender.com/dark/github" width="48px" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/isaac" target="_blank">
+  <a href="https://linkedin.com/in/isaac-ziyengwa" target="_blank">
     <img src="https://iconic-api.onrender.com/dark/linkedin" width="48px" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:231269307@mycput.ac.za">
-    <img src="https://iconic-api.onrender.com/dark/gmail" width="48px" alt="Gmail" />
+    <img src="https://iconic-api.onrender.com/dark/microsoft-outlook" width="48px" alt="Outlook" />
   </a>
   &nbsp;&nbsp;
   <a href="tel:+27604022165">
