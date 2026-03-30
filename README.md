@@ -33,8 +33,11 @@ I am a motivated Information Technology student, specializing in Applications De
 ## 🚀 What I'm currently learning
 
 ☕ Spring Boot – Building REST APIs with Java
+
 🎨 React.js – Modern frontend frameworks
+
 🔧 Design Patterns – Writing cleaner, scalable code
+
 🐳 Docker – Containerization basics
 ---
 
