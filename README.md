@@ -1,4 +1,4 @@
-# Isaac T Ziyengwa
+# <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Isaac T Ziyengwa</span>
 
 📍 Cape Town, South Africa  
 📧 231269307@mycput.ac.za  
