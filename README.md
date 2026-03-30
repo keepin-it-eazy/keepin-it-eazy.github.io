@@ -1,6 +1,4 @@
-                          
-                              
-#            Isaac T Ziyengwa
+# ℐ𝓈𝒶𝒶𝒸 𝒯 𝒵𝒾𝓎ℯ𝓃ℊ𝓌𝒶
 
 📍 Cape Town, South Africa  
 📧 231269307@mycput.ac.za  
