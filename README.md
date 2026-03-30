@@ -74,6 +74,22 @@ I am a motivated Information Technology student, specializing in Applications De
 
 ---
 
+## 🎥 Mock Interview
+
+<div align="center">
+  <a href="https://youtu.be/1riafrFOsX8" target="_blank">
+    <img src="https://img.youtube.com/vi/1riafrFOsX8/maxresdefault.jpg" 
+         alt="Mock Interview - Isaac T Ziyengwa" 
+         width="800" 
+         style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" />
+    <br />
+    <img src="https://img.shields.io/badge/▶️_Click_to_Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
+         style="margin-top: -40px; position: relative; top: -60px;" />
+  </a> 
+  <sub>🎬 *Mock interview demonstrating my technical knowledge, communication skills, and professional presentation*</sub>
+</div>
+---
+
 <div align="center">
   
 ### 🔗 Connect with me
@@ -114,32 +130,7 @@ I am a motivated Information Technology student, specializing in Applications De
 </table>
 
 </div>
----
-## 🎥 Mock Interview
 
-<div align="center">
-  <a href="https://youtu.be/1riafrFOsX8" target="_blank">
-    <img src="https://img.youtube.com/vi/1riafrFOsX8/maxresdefault.jpg" 
-         alt="Mock Interview - Isaac T Ziyengwa" 
-         width="800" 
-         style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" />
-    <br />
-    <img src="https://img.shields.io/badge/▶️_Click_to_Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
-         style="margin-top: -40px; position: relative; top: -60px;" />
-  </a>
-  
-  <br />
-  
-  | | |
-  |:-:|:-:|
-  | **🗣️ Technical Questions** | **💻 Coding Challenge** |
-  | Object-Oriented Programming | Problem-solving demonstration |
-  | Software Development Lifecycle | Clean code practices |
-  | Database Design | Debugging approach |
-  
-  <br />
-  
-  <sub>🎬 *Mock interview demonstrating my technical knowledge, communication skills, and professional presentation*</sub>
-</div>
+---
 
 *Open to WIL Junior Developer opportunities | Available for immediate placement*
