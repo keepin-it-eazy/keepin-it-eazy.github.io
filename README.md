@@ -39,6 +39,7 @@ I am a motivated Information Technology student, specializing in Applications De
 🔧 Design Patterns – Writing cleaner, scalable code
 
 🐳 Docker – Containerization basics
+
 ---
 
 ## 💼 Work Experience
