@@ -76,21 +76,25 @@ I am a motivated Information Technology student, specializing in Applications De
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/keepin-it-eazy" target="_blank">
-    <img src="https://iconic-api.onrender.com/dark/github" width="48px" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-keepin--it--eazy-181717?style=for-the-badge&logo=github&logoColor=white" /><br />
+    <strong>GitHub</strong>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/isaac-ziyengwa" target="_blank">
-    <img src="https://iconic-api.onrender.com/dark/linkedin" width="48px" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Isaac%20Ziyengwa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br />
+    <strong>LinkedIn</strong>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:231269307@mycput.ac.za">
-    <img src="https://iconic-api.onrender.com/dark/microsoft-outlook" width="48px" alt="Outlook" />
+    <img src="https://img.shields.io/badge/Outlook-231269307@mycput.ac.za-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /><br />
+    <strong>Outlook</strong>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="tel:+27604022165">
-    <img src="https://iconic-api.onrender.com/dark/whatsapp" width="48px" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-+27%2060%20402%202165-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br />
+    <strong>WhatsApp</strong>
   </a>
 </p>
 ---
