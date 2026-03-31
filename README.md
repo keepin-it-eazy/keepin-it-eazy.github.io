@@ -118,7 +118,7 @@ I am a motivated Information Technology student, specializing in Applications De
 ---
 ## 🎥 Mock Interview
 
-<video src="https://your-keepin-it-eazy.github.io/repo-name/videos/interviews.mp4" autoplay loop muted playsinline width="100%">
+<video src="https://your-keepin-it-eazy.github.io/keepin-it-eazy/videos/interviews.mp4" autoplay loop muted playsinline width="100%">
   Your browser does not support the video tag.
 </video>
 
