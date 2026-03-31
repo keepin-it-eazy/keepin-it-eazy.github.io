@@ -74,23 +74,6 @@ I am a motivated Information Technology student, specializing in Applications De
 
 ---
 
-## 🎥 Mock Interview
-
-<div align="center">
-  <a href="https://youtu.be/1riafrFOsX8" target="_blank">
-    <img src="https://img.youtube.com/vi/1riafrFOsX8/maxresdefault.jpg" 
-         alt="Mock Interview - Isaac T Ziyengwa" 
-         width="800" 
-         style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" />
-    <br />
-    <img src="https://img.shields.io/badge/▶️_Click_to_Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
-         style="margin-top: -40px; position: relative; top: -60px;" />
-  </a> 
- <br/> <sub>🎬 *Mock interview demonstrating my technical knowledge, communication skills, and professional presentation*</sub>
-</div>
-
----
-
 <div align="center">
   
 ### 🔗 Connect with me
@@ -133,5 +116,10 @@ I am a motivated Information Technology student, specializing in Applications De
 </div>
 
 ---
+## 🎥 Mock Interview
+
+<video src="https://your-username.github.io/repo-name/videos/interviews.mp4" autoplay loop muted playsinline width="100%">
+  Your browser does not support the video tag.
+</video>
 
 *Open to WIL Junior Developer opportunities | Available for immediate placement*
