@@ -118,19 +118,14 @@ I am a motivated Information Technology student, specializing in Applications De
 ---
 ## 🎥 Mock Interview
 
+# 🎬 Project Demo
 
 <div align="center">
-  <video src="idea%20projects/video/interviews.mp4" 
-         autoplay 
-         loop 
-         muted 
-         playsinline 
-         controls 
-         width="100%" 
-         style="max-width: 800px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://www.youtube.com/watch?v=[YOUR_VIDEO_ID](https://youtube.com/shorts/1riafrFOsX8?feature=share)">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="Watch Demo Video" width="100%" style="max-width: 800px; border-radius: 12px;">
+  </a>
 </div>
 
+> 🎥 Click the image above to watch the demo video
 
 *Open to WIL Junior Developer opportunities | Available for immediate placement*
