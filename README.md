@@ -118,6 +118,15 @@ I am a motivated Information Technology student, specializing in Applications De
 ---
 ## 🎥 Mock Interview
 
-https://github.com/user-attachments/assets/222a4a42-2290-4958-a254-2681dffa25de
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/222a4a42-2290-4958-a254-2681dffa25de" target="_blank">
+    <img src="https://placehold.co/800x450/1e1e2f/ffffff?text=🎬+Click+to+Watch+Mock+Interview" 
+         alt="Mock Interview Video - Click to Watch" 
+         width="80%"
+         style="border-radius: 10px; border: 2px solid #333;">
+  </a>
+  <br />
+  <em>🎥 Click the image above to watch my mock interview video</em>
+</div>
 
 *Open to WIL Junior Developer opportunities | Available for immediate placement*
