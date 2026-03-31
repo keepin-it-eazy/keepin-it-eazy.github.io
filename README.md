@@ -118,8 +118,19 @@ I am a motivated Information Technology student, specializing in Applications De
 ---
 ## 🎥 Mock Interview
 
-<video src="https://your-keepin-it-eazy.github.io/keepin-it-eazy/videos/interviews.mp4" autoplay loop muted playsinline width="100%">
-  Your browser does not support the video tag.
-</video>
+
+<div align="center">
+  <video src="idea%20projects/video/interviews.mp4" 
+         autoplay 
+         loop 
+         muted 
+         playsinline 
+         controls 
+         width="100%" 
+         style="max-width: 800px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 
 *Open to WIL Junior Developer opportunities | Available for immediate placement*
