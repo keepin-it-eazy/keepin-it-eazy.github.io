@@ -121,14 +121,6 @@ I am a motivated Information Technology student specialising in Applications Dev
 
 ---
 
-## 🤝 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-keepin--it--eazy-181717?style=for-the-badge&logo=github)](https://github.com/keepin-it-eazy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac%20Ziyengwa-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/isaac-ziyengwa)
-[![Email](https://img.shields.io/badge/Email-231269307%40mycput.ac.za-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:231269307@mycput.ac.za)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B27%2060%20402%202165-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/27604022165)
-
----
 
 ## 🎥 Mock Interview
 
