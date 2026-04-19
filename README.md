@@ -128,26 +128,6 @@ const isaac = {
 
 ---
 
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=keepin-it-eazy&theme=github-dark&hide_border=true&background=0d1117&stroke=1a2a4a&ring=58a6ff&fire=3dd68c&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="520"/>
-
-</div>
-
----
-
-## 📈 &nbsp;Contribution Graph
-
-<div align="center">
-
-[![Isaac's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=keepin-it-eazy&bg_color=0d1117&color=58a6ff&line=3dd68c&point=58a6ff&area=true&area_color=1a2a4a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 📋 &nbsp;References
 
 <table>
@@ -170,18 +150,6 @@ const isaac = {
 </td>
 </tr>
 </table>
-
----
-
-## 💬 &nbsp;Quote I Live By
-
-<div align="center">
-
-> *"The best error message is the one that never shows up."*
->
-> — Thomas Fuchs
-
-</div>
 
 ---
 
