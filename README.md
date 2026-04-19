@@ -1,12 +1,18 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=200&section=header&text=Isaac%20T%20Ziyengwa&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CPUT%20%7C%20Cape%20Town%20🇿🇦&descAlignY=58&descColor=3dd68c&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=🚀+Building+the+future%2C+one+commit+at+a+time;🎓+DIP%3A+ICT+Applications+Development+%40+CPUT;💻+Java+·+C%23+·+HTML+·+CSS+·+JavaScript;🤝+Seeking+WIL+Junior+Developer+Opportunity;☕+Powered+by+coffee+%26+Stack+Overflow)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=🚀+Building+the+future%2C+one+commit+at+a+time;🎓+DIP%3A+ICT+Applications+Development+%40+CPUT;💻+Java+·+C%23+·+HTML+·+CSS+·+JavaScript;🤝+Seeking+WIL+Junior+Developer+Opportunity;☕+Powered+by+coffee+%26+Stack+Overflow" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-ziyengwa)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keepin-it-eazy)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:231269307@mycput.ac.za)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27604022165)
-[![Profile Views](https://komarev.com/ghpvc/?username=keepin-it-eazy&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/keepin-it-eazy)
+<p align="center">
+  <a href="https://linkedin.com/in/isaac-ziyengwa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/keepin-it-eazy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:231269307@mycput.ac.za"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+  <a href="https://wa.me/27604022165"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://github.com/keepin-it-eazy"><img src="https://komarev.com/ghpvc/?username=keepin-it-eazy&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS"/></a>
+</p>
 
 ---
 
