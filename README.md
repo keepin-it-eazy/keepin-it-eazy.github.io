@@ -113,17 +113,19 @@ I learned that plain text can be powerful and expressive with the right syntax. 
 ### Reflection 2: Mock Interview Video
 
 **Situation**  
-As part of my work readiness training and this portfolio assignment, I needed to record a mock interview to demonstrate my communication skills, professional presentation, and ability to answer common interview questions for a Junior Developer role.
+I needed to record a mock interview to demonstrate my communication skills, professional presentation, and ability to answer common interview questions for a Junior Developer role, as part of my work readiness training and this portfolio assignment.
 
 **Task**  
-Record a 2-3 minute mock interview video answering typical ICT/developer interview questions, then embed it in my GitHub portfolio using Markdown or HTML, ensuring it plays correctly on GitHub Pages.
+Record a 2-3 minute mock interview video answering typical ICT/developer interview questions, then embed it in my GitHub portfolio using Markdown, ensuring it plays correctly on GitHub Pages.
 
 **Action**  
-I researched common interview questions for junior developer positions, including:
-- "Tell me about yourself"
-- "Why did you choose IT/Applications Development?"
-- "What programming languages are you most comfortable with?"
-- "Describe a challenge you faced in a group project"
+I received the relevant questions in the subject guide provided by my lecturer. My questions include:
+- Tell me about yourself
+- What are you passionate about?
+- What software/systems are you familiar with?
+- How do you handle pressure?
+- What do you think is the biggest issue our industry faces today?
+- Can conflict be healthy in the workplace?
 
 I prepared concise, honest answers using the STAR method. I set up my laptop camera in a quiet room with good natural lighting. I recorded three practice takes, reviewed each one, and chose the best version. I uploaded the video to my repository's `assets/videos/` folder and embedded it using the HTML `<video>` tag with controls.
 
