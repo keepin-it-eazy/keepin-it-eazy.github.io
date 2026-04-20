@@ -164,14 +164,6 @@ GitHub Pages is a free, powerful, and easy way to host static websites directly 
 
 ---
 
-## 🚀 Portfolio Live Site
-
-This portfolio is published at:  
-🔗 [https://keepin-it-eazy.github.io/Isaac-Portfolio/](https://keepin-it-eazy.github.io/Isaac-Portfolio/)  
-*(Replace with your actual GitHub Pages URL after deployment)*
-
----
-
 *Open to WIL Junior Developer opportunities | Available for immediate placement*
 
 
