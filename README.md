@@ -85,10 +85,10 @@ I am a motivated Information Technology student specialising in Applications Dev
 ### Reflection 1: Coding my CV in Markdown
 
 **Situation**  
-I had never used Markdown before this assignment. My CV needed to be coded from scratch using only plain text formatting and displayed directly on GitHub as part of my digital portfolio.
+I had partially used Markdown prior to this assignment. My CV was to be coded from scratch using only plain text formatting and displayed directly on GitHub as part of my digital portfolio.
 
 **Task**  
-Create a professional CV using Markdown syntax that includes headings, tables, lists, links, contact information, and visual elements like emojis — all without using Word, Google Docs, or any WYSIWYG editor.
+Create a professional CV using Markdown syntax that includes headings, lists, links, tables, contact information, and visual elements like emojis — all without using Word, Google Docs, or any WYSIWYG editor.
 
 **Action**  
 I learned Markdown by reading GitHub's Markdown guide and studying examples from other developers. I created this `README.md` file and used:
@@ -97,7 +97,6 @@ I learned Markdown by reading GitHub's Markdown guide and studying examples from
 - `-` for bullet points in work experience and "What I'm Up To"
 - `[text](url)` for clickable LinkedIn and GitHub links
 - `mailto:` and `tel:` for contact links
-- Emojis (🇿🇦, 🎯, 🔥, 💼, 📋, 🎥, 📝) for visual appeal
 - Horizontal rules `---` to separate sections
 
 I previewed my CV on GitHub and adjusted formatting iteratively until it looked clean and professional on both desktop and mobile views.
