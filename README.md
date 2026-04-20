@@ -75,7 +75,10 @@ I am a motivated Information Technology student specialising in Applications Dev
 
 ## 🎥 Mock Interview
 
-[▶️ Watch my Mock Interview](assets/videos/demo-video.mp4)
+<video width="640" height="360" controls>
+  <source src="assets/videos/demo-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
