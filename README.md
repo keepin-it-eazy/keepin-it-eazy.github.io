@@ -126,7 +126,7 @@ I received the relevant questions in the subject guide provided by my lecturer. 
 - What do you think is the biggest issue our industry faces today?
 - Can conflict be healthy in the workplace?
 
-I prepared concise, honest answers using the STAR method. I set up my laptop camera in a quiet room with good natural lighting. I recorded three practice takes, reviewed each one, and chose the best version. I uploaded the video to my repository's `assets/videos/` folder and embedded it using the HTML `<video>` tag with controls.
+I prepared concise, honest answers using the STAR method. I set up my camera in a quiet room with good natural lighting. I recorded a few practice takes, reviewed each one, and chose the best version. I uploaded the video to my repository's `assets/videos/` folder and embedded it using the HTML `<video>` tag with controls.
 
 **Result**  
 The video is now embedded in my GitHub portfolio. Reviewing the recording helped me identify areas for improvement, such as:
