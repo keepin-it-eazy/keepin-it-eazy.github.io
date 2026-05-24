@@ -103,6 +103,7 @@ A clean, professional CV that renders beautifully on GitHub. And I finally get M
 **Reflection**  
 
 Plain text is surprisingly powerful. Markdown is way faster than word processors once it clicks. Next time: task lists, footnotes, collapsible sections.
+
 ---
 
 ### Reflection 2: Mock Interview Video
