@@ -119,22 +119,22 @@ Record a 2–3 minute mock interview answering typical ICT/developer questions, 
 
 My lecturer gave me the questions:
 
-Tell me about yourself
-What are you passionate about?
-What software/systems are you familiar with?
-How do you handle pressure?
-What's the biggest issue our industry faces today?
-Can conflict be healthy at work?
+- Tell me about yourself
+- What are you passionate about?
+- What software/systems are you familiar with?
+- How do you handle pressure?
+- What's the biggest issue our industry faces today?
+- Can conflict be healthy at work?
 I prepped short, honest STAR-style answers. Found a quiet room with good natural light, set up my camera, and recorded a few practice takes. Picked the best one, dropped the file into assets/videos/, and embedded it with the HTML <video> tag and controls.
 
 **Result**
 
 The video is live on my GitHub portfolio. Watching myself back was rough but useful. I spotted exactly what to fix:
 
-Too many "um"s and "like"s
-Eye contact with the camera? Not enough
-Talking too fast
-Barely smiling 
+- Too many "um"s and "like"s
+- Eye contact with the camera? Not enough
+- Talking too fast
+- Barely smiling 
 
 **Reflection** 
 
@@ -157,7 +157,6 @@ Publish my portfolio to GitHub Pages — and make sure everything (CV formatting
 I went to my repository → Settings → Pages (left sidebar). Under "Branch", I picked main and hit Save. Waited about 2–3 minutes for it to deploy.
 
 Live URL: https://keepin-it-eazy.github.io/
-
 Then came the surprises. Relative video paths broke, so I had to fix the <video> source. Tested on both desktop and mobile to catch any responsive issues.
 
 **Result**
