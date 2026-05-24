@@ -82,37 +82,37 @@ I am a motivated Information Technology student specialising in Applications Dev
 
 ---
 
-### Reflection 1: Coding my CV in Markdown
+## Reflection 1: Coding my CV in Markdown
 
-**Situation**  
+**Situation**
 
 I'd used a little Markdown before. Now I needed to code my whole CV from scratch — plain text only, no Word or Google Docs — and display it on GitHub as part of my portfolio.
 
-**Task**  
+**Task**
 
 Build a professional CV using Markdown: headings, lists, links, tables, emojis, contact info. All by hand. No WYSIWYG shortcuts.
 
-**Action**  
+**Action**
 
-I learned as I built. Read GitHub's Markdown guide, peeked at other devs' examples, and started typing. Used # for headings, | for tables, - for bullets, [text](url) for links, mailto: and tel: for contact, and --- to break up sections. Previewed constantly on GitHub until it looked clean on both desktop and mobile.
+I learned as I built. Read GitHub's Markdown guide, peeked at other devs' examples, and started typing. Used `#` for headings, `|` for tables, `-` for bullets, `[text](url)` for links, `mailto:` and `tel:` for contact, and `---` to break up sections. Previewed constantly on GitHub until it looked clean on both desktop and mobile.
 
-**Result**  
+**Result**
 
 A clean, professional CV that renders beautifully on GitHub. And I finally get Markdown — I can use it for READMEs, docs, and future projects without thinking twice.
 
-**Reflection**  
+**Reflection**
 
 Plain text is surprisingly powerful. Markdown is way faster than word processors once it clicks. Next time: task lists, footnotes, collapsible sections.
 
 ---
 
-### Reflection 2: Mock Interview Video
+## Reflection 2: Mock Interview Video
 
-**Situation**  
+**Situation**
 
 I needed to record a mock interview for a Junior Developer role — part of my work readiness training and portfolio. Goal: show communication skills, professional presence, and honest answers to real interview questions.
 
-**Task** 
+**Task**
 
 Record a 2–3 minute mock interview answering typical ICT/developer questions, then embed the video in my GitHub portfolio using Markdown so it actually plays on GitHub Pages.
 
@@ -126,7 +126,8 @@ My lecturer gave me the questions:
 - How do you handle pressure?
 - What's the biggest issue our industry faces today?
 - Can conflict be healthy at work?
-I prepped short, honest STAR-style answers. Found a quiet room with good natural light, set up my camera, and recorded a few practice takes. Picked the best one, dropped the file into assets/videos/, and embedded it with the HTML <video> tag and controls.
+
+I prepped short, honest STAR-style answers. Found a quiet room with good natural light, set up my camera, and recorded a few practice takes. Picked the best one, dropped the file into `assets/videos/`, and embedded it with the HTML `<video>` tag and controls.
 
 **Result**
 
@@ -135,38 +136,40 @@ The video is live on my GitHub portfolio. Watching myself back was rough but use
 - Too many "um"s and "like"s
 - Eye contact with the camera? Not enough
 - Talking too fast
-- Barely smiling 
+- Barely smiling
 
-**Reflection** 
+**Reflection**
 
 Turns out you don't just have interview skills. You practice them. Watching myself was uncomfortable at first, but probably the best self-feedback I've ever gotten. Next time: note cards, a better mic, and a friend to grill me. Honestly? I feel way more ready for real interviews now.
 
 ---
 
-### Reflection 3: Using GitHub Pages
+## Reflection 3: Using GitHub Pages
 
-**Situation** 
+**Situation**
 
 After finishing my Markdown CV and mock interview video, I needed to turn my GitHub portfolio into a real, live website. Employers and my lecturer shouldn't have to dig through GitHub's interface or read raw Markdown files.
 
-**Task** 
+**Task**
 
 Publish my portfolio to GitHub Pages — and make sure everything (CV formatting, embedded video, links, images) actually works on the live site.
 
 **Action**
 
-I went to my repository → Settings → Pages (left sidebar). Under "Branch", I picked main and hit Save. Waited about 2–3 minutes for it to deploy.
+I went to my repository → Settings → Pages (left sidebar). Under "Branch", I picked `main` and hit Save. Waited about 2–3 minutes for it to deploy.
 
-Live URL: https://keepin-it-eazy.github.io/
-Then came the surprises. Relative video paths broke, so I had to fix the <video> source. Tested on both desktop and mobile to catch any responsive issues.
+Live URL: [https://keepin-it-eazy.github.io/](https://keepin-it-eazy.github.io/)
+
+Then came the surprises. Relative video paths broke, so I had to fix the `<video>` source. Tested on both desktop and mobile to catch any responsive issues.
 
 **Result**
 
 Portfolio is now live at a clean, shareable URL. No GitHub account needed to view it. Markdown renders perfectly. Video plays. Email, phone, LinkedIn, GitHub links — all clickable and working.
 
-**Reflection** 
+**Reflection**
 
 GitHub Pages is free and surprisingly powerful. But I learned something important: what works in the GitHub preview doesn't always work on the live site. Testing after deployment isn't optional — it's the whole point.
+
 
 Next time i hope to incorporate: custom domain, _config.yml file, HTTPS, and maybe GitHub Actions to auto-deploy on every push.
 
