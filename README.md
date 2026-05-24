@@ -85,83 +85,90 @@ I am a motivated Information Technology student specialising in Applications Dev
 ### Reflection 1: Coding my CV in Markdown
 
 **Situation**  
-I had partially used Markdown prior to this assignment. My CV was to be coded from scratch using only plain text formatting and displayed directly on GitHub as part of my digital portfolio.
+
+I'd used a little Markdown before. Now I needed to code my whole CV from scratch — plain text only, no Word or Google Docs — and display it on GitHub as part of my portfolio.
 
 **Task**  
-Create a professional CV using Markdown syntax that includes headings, lists, links, tables, contact information, and visual elements like emojis — all without using Word, Google Docs, or any WYSIWYG editor.
+
+Build a professional CV using Markdown: headings, lists, links, tables, emojis, contact info. All by hand. No WYSIWYG shortcuts.
 
 **Action**  
-I learned Markdown by reading GitHub's Markdown guide and studying examples from other developers. I created this `README.md` file and used:
-- `#` and `###` for hierarchical headings
-- `|` tables for Education, Technical Skills, and References
-- `-` for bullet points in work experience and "What I'm Up To"
-- `[text](url)` for clickable LinkedIn and GitHub links
-- `mailto:` and `tel:` for contact links
-- Horizontal rules `---` to separate sections
 
-I previewed my CV on GitHub and adjusted formatting iteratively until it looked clean and professional on both desktop and mobile views.
+I learned as I built. Read GitHub's Markdown guide, peeked at other devs' examples, and started typing. Used # for headings, | for tables, - for bullets, [text](url) for links, mailto: and tel: for contact, and --- to break up sections. Previewed constantly on GitHub until it looked clean on both desktop and mobile.
 
 **Result**  
-I successfully created a well-formatted, visually appealing CV that renders beautifully on GitHub. I now understand Markdown fluently and can use it for README files, documentation, and future portfolio projects. The CV clearly showcases my skills, education, and work readiness training.
+
+A clean, professional CV that renders beautifully on GitHub. And I finally get Markdown — I can use it for READMEs, docs, and future projects without thinking twice.
 
 **Reflection**  
-I learned that plain text can be powerful and expressive with the right syntax. Markdown is much faster than using word processors once you learn the basics. Next time, I will add more advanced GitHub Flavored Markdown features like task lists, footnotes, and collapsible sections.
 
+Plain text is surprisingly powerful. Markdown is way faster than word processors once it clicks. Next time: task lists, footnotes, collapsible sections.
 ---
 
 ### Reflection 2: Mock Interview Video
 
 **Situation**  
-I needed to record a mock interview to demonstrate my communication skills, professional presentation, and ability to answer common interview questions for a Junior Developer role, as part of my work readiness training and this portfolio assignment.
 
-**Task**  
-Record a 2-3 minute mock interview video answering typical ICT/developer interview questions, then embed it in my GitHub portfolio using Markdown, ensuring it plays correctly on GitHub Pages.
+I needed to record a mock interview for a Junior Developer role — part of my work readiness training and portfolio. Goal: show communication skills, professional presence, and honest answers to real interview questions.
 
-**Action**  
-I received the relevant questions in the subject guide provided by my lecturer. My questions include:
-- Tell me about yourself
-- What are you passionate about?
-- What software/systems are you familiar with?
-- How do you handle pressure?
-- What do you think is the biggest issue our industry faces today?
-- Can conflict be healthy in the workplace?
+**Task** 
 
-I prepared concise, honest answers using the STAR method. I set up my camera in a quiet room with good natural lighting. I recorded a few practice takes, reviewed each one, and chose the best version. I uploaded the video to my repository's `assets/videos/` folder and embedded it using the HTML `<video>` tag with controls.
+Record a 2–3 minute mock interview answering typical ICT/developer questions, then embed the video in my GitHub portfolio using Markdown so it actually plays on GitHub Pages.
 
-**Result**  
-The video is now embedded in my GitHub portfolio. Reviewing the recording helped me identify areas for improvement, such as:
-- Reducing filler words ("um", "like", "so")
-- Maintaining eye contact with the camera (not looking at myself)
-- Slowing down my speaking pace
-- Smiling more to appear confident and approachable
+**Action**
 
-**Reflection**  
-This experience taught me that interview skills require deliberate practice. Watching myself on video was uncomfortable at first but incredibly valuable for self-assessment. Next time, I will prepare more thoroughly with note cards, use a better microphone for audio quality, and practice with a friend for live feedback. I now feel more confident for real job interviews.
+My lecturer gave me the questions:
+
+Tell me about yourself
+What are you passionate about?
+What software/systems are you familiar with?
+How do you handle pressure?
+What's the biggest issue our industry faces today?
+Can conflict be healthy at work?
+I prepped short, honest STAR-style answers. Found a quiet room with good natural light, set up my camera, and recorded a few practice takes. Picked the best one, dropped the file into assets/videos/, and embedded it with the HTML <video> tag and controls.
+
+**Result**
+
+The video is live on my GitHub portfolio. Watching myself back was rough but useful. I spotted exactly what to fix:
+
+Too many "um"s and "like"s
+Eye contact with the camera? Not enough
+Talking too fast
+Barely smiling 
+
+**Reflection** 
+
+Turns out you don't just have interview skills. You practice them. Watching myself was uncomfortable at first, but probably the best self-feedback I've ever gotten. Next time: note cards, a better mic, and a friend to grill me. Honestly? I feel way more ready for real interviews now.
 
 ---
 
 ### Reflection 3: Using GitHub Pages
 
-**Situation**  
-After creating my Markdown CV and embedding my mock interview video, I needed to deploy my GitHub portfolio as a live website. This would allow potential employers and my lecturer to view it easily without navigating the GitHub interface or reading raw Markdown files.
+**Situation** 
 
-**Task**  
-Publish my portfolio repository to GitHub Pages and ensure all content (CV formatting, embedded video, links, and images) displays correctly on the live site.
+After finishing my Markdown CV and mock interview video, I needed to turn my GitHub portfolio into a real, live website. Employers and my lecturer shouldn't have to dig through GitHub's interface or read raw Markdown files.
 
-**Action**  
-I went to my repository on GitHub → clicked **Settings** → navigated to **Pages** in the left sidebar. Under "Branch", I selected `main` (my default branch) and clicked **Save**. I waited 2-3 minutes for the deployment to complete. I then tested the live URL: `https://keepin-it-eazy.github.io/Isaac-Portfolio/`
+**Task** 
 
-I discovered that relative video paths needed adjustment, so I updated the `<video>` source to use the correct path. I also tested the site on both desktop and mobile browsers to ensure responsive design.
+Publish my portfolio to GitHub Pages — and make sure everything (CV formatting, embedded video, links, images) actually works on the live site.
 
-**Result**  
-My portfolio is now live on GitHub Pages at a clean, shareable URL. All Markdown renders correctly with proper formatting. The video is embedded and playable. All links (email, phone, LinkedIn, GitHub) work as expected. The site is accessible to anyone with the link — no GitHub account required.
+**Action**
 
-**Reflection**  
-GitHub Pages is a free, powerful, and easy way to host static websites directly from a repository. I learned the importance of testing after deployment — what works in the GitHub preview doesn't always work on the live Pages site. Next time, I will:
-- Use a custom domain (e.g., `isaacziyengwa.dev`)
-- Add a `_config.yml` file for more control
-- Enable HTTPS for security
-- Use GitHub Actions to automate deployment on every push
+I went to my repository → Settings → Pages (left sidebar). Under "Branch", I picked main and hit Save. Waited about 2–3 minutes for it to deploy.
+
+Live URL: https://keepin-it-eazy.github.io/
+
+Then came the surprises. Relative video paths broke, so I had to fix the <video> source. Tested on both desktop and mobile to catch any responsive issues.
+
+**Result**
+
+Portfolio is now live at a clean, shareable URL. No GitHub account needed to view it. Markdown renders perfectly. Video plays. Email, phone, LinkedIn, GitHub links — all clickable and working.
+
+**Reflection** 
+
+GitHub Pages is free and surprisingly powerful. But I learned something important: what works in the GitHub preview doesn't always work on the live site. Testing after deployment isn't optional — it's the whole point.
+
+Next time i hope to incorporate: custom domain, _config.yml file, HTTPS, and maybe GitHub Actions to auto-deploy on every push.
 
 ---
 
