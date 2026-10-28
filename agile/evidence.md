@@ -1,6 +1,6 @@
 # Evidence — GrandCaddy Sprint
 
-[← Back to portfolio](.)
+[← Back to portfolio](../)
 
 All evidence for the sprint is collected below. Each item is labelled with what it proves.
 
@@ -12,11 +12,11 @@ VS Code Local History shows the earliest save on `SignUp.tsx` as **7 August 2026
 
 **Earliest save — 7 August 2026:**
 
-![VS Code Local History for SignUp.tsx showing earliest save 7 August 2026](assets/evidence/local-history-signup-earliest.png)
+![VS Code Local History for SignUp.tsx showing earliest save 7 August 2026](../assets/evidence/local-history-signup-earliest.png)
 
 **Latest save — October 2026:**
 
-![VS Code Local History for SignUp.tsx showing latest save October 2026](assets/evidence/local-history-signup-latest.png)
+![VS Code Local History for SignUp.tsx showing latest save October 2026](../assets/evidence/local-history-signup-latest.png)
 
 ---
 
