@@ -43,17 +43,15 @@ Screenshots of the three tables I created: structure (column names, types, const
 ### `users` table
 
 ![Structure of the users table](../assets/evidence/supabase-users-structure.png)
-![One filled row in the users table](../assets/evidence/supabase-users-row.png)
+
 
 ### `tasks` table
 
 ![Structure of the tasks table](../assets/evidence/supabase-tasks-structure.png)
-![One filled row in the tasks table](../assets/evidence/supabase-tasks-row.png)
 
 ### `task_categories` table
 
 ![Structure of the task_categories table](../assets/evidence/supabase-task_categories-structure.png)
-![One filled row in the task_categories table](../assets/evidence/supabase-task_categories-row.png)
 
 ### Row Level Security policies
 
