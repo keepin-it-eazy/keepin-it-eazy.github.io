@@ -1,0 +1,67 @@
+================================================================
+LUKE — CUSTOMER EXPERIENCE + AUTH WIRING
+================================================================
+
+Goal:
+  An elderly customer (or family member) can sign up, log in,
+  post a task, and view their own tasks.
+
+Deliverables:
+
+  1. Wire SignUp page to Supabase Auth
+     File: src/pages/SignUp.tsx
+     - Use the signUp() helper from ../lib/auth
+     - Read the Customer/Helper toggle value and pass it
+       as the "role" parameter
+     - On success: redirect to /
+     - On failure: show the error message
+
+     NOTE: the Toggle component currently takes no props.
+     You need to update src/components/Toggle.tsx to accept:
+        value: 'customer' | 'helper'
+        onChange: (role) => void
+
+  2. Wire Login page to Supabase Auth
+     File: src/pages/Login.tsx
+     - Already wired — verify signIn() is called correctly
+     - Add a "Forgot password?" flow if time allows
+       (optional)
+
+  3. Post-a-Task form
+     File: src/pages/PostTask.tsx
+     Fields:
+       title, description, category (dropdown from
+       task_categories), address, suburb, preferred_date,
+       preferred_time, offered_amount
+     - Insert into tasks table
+     - Set customer_id to the logged-in user's id
+       (get it via supabase.auth.getUser())
+     - On success: navigate to /my-tasks
+
+  4. My Tasks page
+     File: src/pages/MyTasks.tsx
+     - Fetch tasks where customer_id = current user
+     - Show status badge (open / assigned / completed)
+     - Sort newest first
+
+  5. Task Detail page
+     File: src/pages/TaskDetail.tsx
+     - Uses the :id URL param (react-router useParams)
+     - Show full task info
+     - Show helper name if assigned
+
+  6. Reusable TaskCard component
+     File: src/components/TaskCard.tsx
+     - Extract the card UI from BrowseTasks.tsx
+     - Props: task object
+     - Use it in MyTasks and BrowseTasks
+
+Tables used:
+  tasks, task_categories, users
+
+Tables Luke does NOT create — Isaac already set these up.
+
+Deliverable this week:
+  SignUp actually creates a Supabase user + a public.users
+  row. Post-a-Task inserts a real task. My Tasks shows the
+  customer's own tasks.
