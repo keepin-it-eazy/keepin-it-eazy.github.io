@@ -15,6 +15,17 @@ I am a motivated Information Technology student specialising in Applications Dev
 
 ---
 
+## 🏃 Agile Project — GrandCaddy Sprint
+
+A full Agile sprint I led from **7 August to 25 October 2026**, building **GrandCaddy** — a task marketplace for the CPUT community — with a three-person team.
+
+- **[Sprint Overview](agile/sprint-overview.md)** — what the sprint was, who did what, and what we scoped out
+- **[Sprint Backlog](agile/backlog.md)** — the Trello board, story summary, and acceptance criteria
+- **[Evidence](agile/evidence.md)** — Local History, commit history, Supabase tables, Vercel deployment, and the briefs I wrote
+- **[Reflection](agile/reflection.md)** — what I learned, what I'd do differently, and the weakness I'd fix before real users
+
+---
+
 ## 🎓 Education
 
 | Institution | Qualification | Status |
