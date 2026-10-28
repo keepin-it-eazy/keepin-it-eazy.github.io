@@ -1,0 +1,4 @@
+2026-08-04 Update README.md
+2026-10-14 Fix authentication and Supabase app flow
+2026-10-14 Add Kuils River area selection
+2026-10-14 Add icons to How It Works section
